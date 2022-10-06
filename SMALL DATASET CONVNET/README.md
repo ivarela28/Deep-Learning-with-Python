@@ -1,2 +1,5 @@
-# Small dataset convnet -- Desctription
-This notebook was developed for the purpose of learning about image classification using convnets. Additionally, the dataset was intentionaly truncated to demonstrate the effectiveness of data augmentation to prevent overfitting an improve accuracy for small datasets.
+# Small dataset convnet
+This notebook was developed for the purpose of ML education.  Concepts include:
+*Loading a dataset using an API
+*Basic convnets for image classification
+*
